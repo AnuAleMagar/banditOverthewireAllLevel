@@ -1,11 +1,12 @@
-#level9
+# level9
 
-##Goal
+## Goal
 
 password is inside data.txt file in few human readable strings followed by several '='
 
-##Solution
-;;here the strings extract all the human readable string from the data.txt and grep == filter the line having == sign 
+## Solution
+
+here the strings extract all the human readable string from the data.txt and grep == filter the line having == sign 
 ```
 strings data.txt |grep ==
 or 

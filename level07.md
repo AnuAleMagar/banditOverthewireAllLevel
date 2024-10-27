@@ -1,11 +1,11 @@
-#level7
+# level7
 
-##Goal
+## Goal
 
 Find password in data.txt file which is next to 
 the word millionth
 
-##Solution
+## Solution
 ```
 ls
 cat data.txt | grep 'millionth'

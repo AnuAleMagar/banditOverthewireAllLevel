@@ -1,9 +1,9 @@
-#level4
+# level4
 
-##Goal
+## Goal
 
 inside inhere directory find the password inside human readable file
-##Solution
+## Solution
 here ls -a command shows all files including hidden file 
 
 ```

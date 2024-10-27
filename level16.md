@@ -1,10 +1,10 @@
-#level16
+# level16
 
-##Goal
+## Goal
 
 The credentials for the next level can be retrieved by submitting the password of the current level to a port on localhost in the range 31000 to 32000. First find out which of these ports have a server listening on them.
 
-##Solution
+## Solution
 ```
 nmap -p 31000-32000 localhost
 cat /etc/bandit_pass/bandit15 | openssl s_client -connect localhost:portnumber -ign_eof //here port number is replaced by the port that is open 

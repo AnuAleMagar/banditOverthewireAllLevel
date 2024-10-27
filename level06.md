@@ -1,6 +1,6 @@
-#level6
+# level6
 
-##Goal
+## Goal
 
 the password is somewhere in the server and the file is owned bytes
 user bandit7
@@ -8,7 +8,7 @@ owned by group bandit6
 and size 33bytes
 
 
-##Solution
+## Solution
 here >dev>null is used to remove standard error.
 everything in >dev>null directory is deleted permanently
 here 2 is for standard err type ,if it was 1 then it's for standard output

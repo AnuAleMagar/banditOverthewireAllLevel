@@ -1,10 +1,10 @@
-#level26
+# level26
 
-##Goal
+## Goal
 
 here we need to grab password for bandit27
 
-##Solution
+## Solution
 ```
 ls
 cat bandit27-do

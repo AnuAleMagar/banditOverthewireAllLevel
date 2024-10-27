@@ -1,10 +1,10 @@
-#level20
+# level20
 
-##Goal
+## Goal
 
 There is a setuid binary in a homedirectory what we need to do is connect it with the port and send the current password from the port and then the program will give the next level password
 
-##Solution
+## Solution
 ```
 ls
 // opened another terminal as bandit20 user

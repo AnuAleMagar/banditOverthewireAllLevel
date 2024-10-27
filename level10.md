@@ -1,11 +1,11 @@
-#level10
+# level10
 
-##Goal
+## Goal
 
 the password is stored in base64 format in data.txt
 
 
-##Solution
+## Solution
 ```
 ls
 base64 -d data.txt

@@ -1,11 +1,11 @@
-#level24
+# level24
 
-##Goal
+## Goal
 
 A daemon is listening on port 30002 and will give you the password for bandit25 if given the password for bandit24 and a secret numeric 4-digit pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
 You do not need to create new connections each time
 
-##Solution
+## Solution
 Here we should write a script that generates all the combinations of 4 digit pin then append this with password with a space and then send it to the 30002 port
 here first i made a temorary file and then create a script file 
 write this code of line in the file using nano

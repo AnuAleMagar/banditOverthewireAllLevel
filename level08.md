@@ -1,10 +1,10 @@
-#level8
+# level8
 
-##Goal
+## Goal
 
 to find the password where the line having password occurs only once
 
-##Solution
+## Solution
 ;;-o print the matching part , sort sorts out alphabetically and uniq -u only prints uniqe line
 ```
 ls
